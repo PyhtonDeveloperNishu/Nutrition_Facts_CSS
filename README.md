@@ -32,7 +32,7 @@ This project is a simple **Nutrition Label** built using **HTML** and **CSS**. I
 - Adjust the **CSS styles** in `styles.css` to customize the appearance.
 
 ## Preview(Hosted Link)
-![Nutrition Label Preview](https://pyhtondevelopernishu.github.io/Nutrition_Facts_CSS/) 
+[Nutrition Label Preview](https://pyhtondevelopernishu.github.io/Nutrition_Facts_CSS/) 
 
 ## License
 This project is free to use under the **MIT License**.
